@@ -39,35 +39,23 @@ Students must complete a CHESS safety walkthrough led by a CHESS operator.This i
 🎫 Radiation Badge
 Students will be issued a monthly radiation badge after:
 
-Completing required safety training
-Passing the CHESS user quizzes
-Finishing the safety walkthrough
 
-
-> [!NOTE]
-> This is an informational note.
-
-> [!WARNING]
-> This is a warning message.
-
-> [!IMPORTANT]
-> Complete this before arrival.
-
-> [!TIP]
-> Useful tip for students.
-
+- [ ] Completing required safety training  
+- [ ] Passing the CHESS user quizzes  
+- [ ] Finishing the safety walkthrough  
 
 
 ### ✅ Summary Checklist
-Before arrival:
+## ✅ Onboarding Checklist
 
- Complete CLASSE Safety Onboarding
- Receive CLASSE ID and BeamPASS login
+### Before Arrival
+- [ ] Complete CLASSE Safety Onboarding  
+- [ ] Receive CLASSE ID and BeamPASS login  
 
-After arrival:
+### After Arrival
+- [ ] Attend CHESS User Meeting  
+- [ ] Complete CHESS User Quiz (BeamPASS)  
+- [ ] Review orientation materials  
+- [ ] Attend safety walkthrough  
+- [ ] Receive radiation badge  
 
- Attend CHESS User Meeting
- Complete CHESS User Quiz (BeamPASS)
- Review orientation materials
- Attend safety walkthrough
- Receive radiation badge
