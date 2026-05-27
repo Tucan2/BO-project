@@ -15,10 +15,13 @@ This repository contains:
 - Work on hands-on scientic projects
 
 ```
+.
 ├── README.md
 ├── introduction/
-│   └── onboarding.md
-│   └── cllusteraccess.md
+│   ├── onboarding.md
+│   └── clusteraccess.md
+│   └── env_creation.md
+│   └── README.md
 ├── LICENSE
 └── project/
     └── 2026/
@@ -36,4 +39,5 @@ This repository contains:
             ├── README.md
             ├── starter_code/
             └── data/
+
 ```
