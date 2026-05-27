@@ -32,6 +32,7 @@
 # Go to the website : 
     https://jupyterhub.classe.cornell.edu
 Talk to beamline scientist before selecting the server
+
 ```
 
 <img src="https://github.com/suchismitasarker/CHESS-ID4B-QM2/blob/main/docs/jupyterhub.png?raw=true" width="300" alt="jupyter">
