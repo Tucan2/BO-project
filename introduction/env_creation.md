@@ -8,7 +8,7 @@
         `qrsh -q interactive.q -l mem_free=200G -pe sge_pe 8` 
 
 #### ✅ Step 3: Go to the fife location
-        `cd /nfs/chess/sw` 
+        cd /nfs/chess/sw
 
 #### ✅ Step 4: Go to the life location
         `python3 -m venv <name of your python env>` 
