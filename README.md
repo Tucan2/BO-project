@@ -12,8 +12,7 @@ This repository contains:
 
 ## Goals
 - Learn AI fundamentals
-- Work on hands-on projects
-- Collaborate with peers
+- Work on hands-on scientic projects
 
 ```
 ├── README.md
