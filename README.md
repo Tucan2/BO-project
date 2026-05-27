@@ -4,7 +4,7 @@
 </p>
 
 # CHESS-Summer-School-Quantum Materials Beamline
-The Quantum Materials Beamline Summer School is designed to train participants in developing and implementing new computational code. This repository contains onboarding resources, setup guides, and hands-on projects designed for participants of the 2026 program.
+The Quantum Materials Beamline Summer School is designed to train participants in developing and implementing new computational code. This repository contains onboarding resources, setup guides, and hands-on projects designed for participants of the 2026 summer program.
 
 # Introduction
 
