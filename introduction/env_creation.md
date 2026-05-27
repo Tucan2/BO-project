@@ -1,6 +1,5 @@
-# Create a python environment at lnx201
-
-
+## Create a python environment at lnx201
+`ssh <username>@lnx201.classe.cornell.edu`
 
 
 
