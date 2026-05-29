@@ -138,7 +138,7 @@ Issued after completing:
 ### After Arrival
 - [ ] Attend CHESS User Meeting  
 - [ ] [Recommended: Attend X-cite Workshop](https://indico.classe.cornell.edu/event/2582/)  
-- [ ] Complete CHESS User Quiz (BeamPASS)  
+- [ ] Complete CHESS User Quiz (BeamPASS)
 - [ ] Review orientation materials  
 - [ ] Attend safety walkthrough  
 - [ ] Receive radiation badge  
