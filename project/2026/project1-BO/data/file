@@ -1,6 +1,15 @@
 
 # Advancing Quantum Materials Discovery: Towards Autonomous Decision Making
 
+Calibration file:
+
+/nfs/chess/id4baux/2025-3/wilson-4300-b/calibrations/
+- CeO2_26keV.cbf
+- CeO2_26keV.poni
+- mask_26keV.edf
+
+You can get more information from 
+(pyFAI)[https://pyfai.readthedocs.io/en/stable/]
 
 Below is the Raw data : 
 
