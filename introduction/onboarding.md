@@ -80,9 +80,6 @@ Students must attend an in-person safety orientation:
   📍 W301  
   🗓 June 4 @ 9:00 AM (Rigel & Karina)
 
-- **Newman Lab Students**  
-  🗓 June 4 @ 9:30 AM (Adam Holic)  
-  📍 Location: TBD  
 
 ---
 
