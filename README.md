@@ -113,7 +113,7 @@ To get started quickly:
         └── project4-XTEC-raw/
             ├── README.md
             ├── literature/
-            ├── study_materials.md
+              ├── study_materials.md
             ├── starter_code/
             └── data/
 
